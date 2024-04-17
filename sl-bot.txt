@@ -1,0 +1,18 @@
+SL Bot com Visualizador 3D em Python
+
+Objetivo:
+
+Desenvolver um SL Bot em Python com as seguintes funcionalidades:
+
+    Visualizador 3D: Exibir a visão em primeira pessoa do avatar em uma janela 3D.
+    Menu: Permitir ao usuário controlar o bot através de opções de menu, como mover o avatar, interagir com objetos e enviar comandos.
+    Grid: Exibir uma grade na tela para auxiliar na navegação e posicionamento do avatar.
+    Autenticação: Solicitar nome de usuário e senha para conectar ao Second Life.
+    Recebimento de Comandos: Permitir que o usuário envie comandos de texto para o bot executar dentro do Second Life.
+
+Ferramentas:
+
+    Python (versão >= 3.5)
+    Biblioteca PyQT (ou similar)
+    Módulo "secondlife" para interação com o Second Life
+    Biblioteca para renderização 3D (como PyOgre ou Panda3D)
