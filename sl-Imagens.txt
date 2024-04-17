@@ -1,0 +1,38 @@
+Janela Python com Imagens do SL Visualizer e Menu
+
+Objetivo:
+
+Desenvolver uma aplicação Python que exibe imagens capturadas do SL Visualizer em uma janela com menu para controlar a visualização e a captura.
+
+Ferramentas:
+
+    Python (versão >= 3.5)
+    Biblioteca PyQT (ou similar)
+    Módulo "secondlife" para interação com o SL Visualizer (opcional)
+
+Etapas:
+
+1. Instalação das Bibliotecas:
+
+    PyQT: Utilize o gerenciador de pacotes da sua distribuição Python (pip, conda, etc.) para instalar o PyQT.
+    Módulo "secondlife" (opcional): Se desejar interagir diretamente com o SL Visualizer, instale o módulo "secondlife" utilizando o pip.
+3. Implementação da Captura de Imagens:
+
+A parte de captura de imagens do SL Visualizer dependerá do método escolhido. Se você estiver usando o módulo "secondlife", precisará se conectar ao cliente do Second Life e capturar as imagens da tela de visualização. Se estiver usando outro método, como a captura de tela da área de trabalho, adapte o código de acordo.
+
+4. Considerações Adicionais:
+
+    Tratamento de Erros: Implemente mecanismos para lidar com erros de conexão, falhas de captura e outros problemas.
+    Gerenciamento de Recursos: Libere recursos como conexões e buffers de imagem ao parar a captura.
+    Personalização: Adapte a interface, o menu e as funcionalidades da aplicação de acordo com suas necessidades.
+
+Observações:
+
+    Este é um exemplo básico e pode ser expandido para incluir mais funcionalidades, como configurações de captura, salvamento de imagens e integração com outras ferramentas.
+    Certifique-se de seguir as diretrizes e políticas de uso do Second Life ao desenvolver sua aplicação.
+
+Recursos Adicionais:
+
+    Documentação do PyQT: https://build-system.fman.io/pyqt5-tutorial
+    Módulo "secondlife": https://wiki.secondlife.com/wiki/PyOGP
+    Tutoriais sobre captura de tela em Python: *
