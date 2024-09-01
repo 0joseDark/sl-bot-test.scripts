@@ -6,7 +6,7 @@ Este é um exemplo de um arquivo `README.md` utilizando Markdown.
 
 - [Início](#início)
 - [Sobre](#sobre)
-- [Contato](#contato)
+- [Contato](#josegrand65@gmail.com)
 
 ### Início
 
