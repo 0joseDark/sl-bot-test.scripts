@@ -48,8 +48,8 @@ Descrição breve do projeto, os desafios enfrentados e as tecnologias utilizada
 
 ## Contato
 
-- **E-mail:** [seu.email@dominio.com]
-- **LinkedIn:** [https://www.linkedin.com/in/seuperfil](https://www.linkedin.com/in/seuperfil)
+- **E-mail:** [josegrand65@gmail.com]
+- **LinkedIn:** [https://www.linkedin.com/in/darkness-orsini-731460183/l](https://www.linkedin.com/in/darkness-orsini-731460183/)
 - **GitHub:** [https://github.com/0joseDark](https://https://github.com/0joseDark)
 
 ---
